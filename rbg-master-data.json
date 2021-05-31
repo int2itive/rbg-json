@@ -43,7 +43,7 @@
             },
             {
                 "year": "2019",
-                "appearances": ["September"]
+                "appearances": ["April"]
             },
             {
                 "year": "2018",
@@ -78,8 +78,8 @@
         ]
     },
     {
-        "first_name": "Chinyere ",
-        "last_name": "Nwaubani",
+        "first_name": "Griot ",
+        "last_name": "Chinyere",
         "image_ref": "../../../../etc/assets/c0v-members/i-RzdtsJD-X2.jpg",
         "Email": "info@shanti-chi.com",
         "Mobile": "07582 228967",
@@ -294,11 +294,37 @@
         "previous_year": [
             {
                 "year": "2020",
-                "appearances": ["July"]
+                "appearances": ["June"]
             },
             {
                 "year": "2019",
                 "appearances": ["October"]
+            },
+            {
+                "year": "2018",
+                "appearances": null
+            }
+        ]
+    },
+    {
+        "first_name": "Baba ",
+        "last_name": "C.",
+        "image_ref": "../../../etc/assets/c0v-members/baba-c_IMG_1762.jpg",
+        "Email": "kabboferdinand@gmail.com",
+        "Mobile": "+44 7582 431816 ",
+        "brief_intro": "Storyteller and multi musician",
+        "Comments": "We are talking about it tomorrow day time, but it was a provisional yes",
+        "Gender": "M",
+        "Website": "www.usifujalloh.com",
+        "current_year": ["February", "May"],
+        "previous_year": [
+            {
+                "year": "2020",
+                "appearances": null
+            },
+            {
+                "year": "2019",
+                "appearances": null
             },
             {
                 "year": "2018",
@@ -368,7 +394,7 @@
         "previous_year": [
             {
                 "year": "2020",
-                "appearances": ["July"]
+                "appearances": null
             },
             {
                 "year": "2019",
@@ -464,7 +490,7 @@
         "Comments": "We are talking about it tomorrow day time, but it was a provisional yes",
         "Gender": "F",
         "Website": "www.usifujalloh.com",
-        "current_year": ["January"],
+        "current_year": ["January", "May"],
         "previous_year": [
             {
                 "year": "2020",
@@ -599,32 +625,6 @@
             {
                 "year": "2020",
                 "appearances": ["November"]
-            },
-            {
-                "year": "2019",
-                "appearances": null
-            },
-            {
-                "year": "2018",
-                "appearances": null
-            }
-        ]
-    },
-    {
-        "first_name": "Baba ",
-        "last_name": "C.",
-        "image_ref": "../../../etc/assets/ia-content/alim_94A5672.jpg",
-        "Email": "kabboferdinand@gmail.com",
-        "Mobile": "+44 7582 431816 ",
-        "brief_intro": "Storyteller and multi musician",
-        "Comments": "We are talking about it tomorrow day time, but it was a provisional yes",
-        "Gender": "M",
-        "Website": "www.usifujalloh.com",
-        "current_year": ["February"],
-        "previous_year": [
-            {
-                "year": "2020",
-                "appearances": null
             },
             {
                 "year": "2019",
