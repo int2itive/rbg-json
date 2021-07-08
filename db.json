@@ -1,0 +1,88 @@
+{
+	"folders":
+	{
+		"current-project":[
+	        {
+	            "title": "Tabs for RBG Event Log",
+	            "description": "Using data records from Rebirth Master JSON source.",
+	            "path": "file:///E:/dev/current-project/rbg-event-log/index.html",
+	            "ui_elements": ["Tabs(JS)"],
+	            "status": [
+	            	{
+	            		"scheduled": false,
+	            		"started": true,
+	            		"ongoing": true,
+	            		"paused": false,
+	            		"completed": false
+	            	}
+	            ],
+	            "background_info": "Complete record of all Rebirth of the Griot event. Details of dates, theme and both lead and guest performers.",
+	            "implementations": "Tabbbed display using javascript events, plain CSS styling and dymamic content from data source.",
+	            "git_repo": false,
+	            "data_source": "JSON",
+	            "assets": []
+	        },
+	        {
+	            "title": "Usifu ",
+	            "description": "Jalloh",
+	            "path": "07862 284462",
+	            "ui_elements": [],
+	            "status": [
+	            	{
+	            		"scheduled": false,
+	            		"started": true,
+	            		"ongoing": true,
+	            		"paused": false,
+	            		"completed": false
+	            	}
+	            ],
+	            "background_info": "Storyteller and hip hop artist and ",
+	            "implementations": "He is happy to be involved",
+	            "git_repo": "M",
+	            "data_source": "www.storiestorie.com",
+	            "assets": []
+	        },
+	        {
+	            "title": "Usifu ",
+	            "description": "Jalloh",
+	            "path": "07862 284462",
+	            "ui_elements": [],
+	            "status": [
+	            	{
+	            		"scheduled": false,
+	            		"started": true,
+	            		"ongoing": true,
+	            		"paused": false,
+	            		"completed": false
+	            	}
+	            ],
+	            "background_info": "Storyteller and multi musician",
+	            "implementations": "We are talking about it tomorrow day time, but it was a provisional yes",
+	            "git_repo": "M",
+	            "data_source": "www.usifujalloh.com",
+	            "assets": []
+	        }
+		],
+		"test": [
+	        {
+	            "title": "Usifu ",
+	            "description": "Jalloh",
+	            "path": "07862 284462",
+	            "ui_elements": [],
+	            "status": [
+	            	{
+	            		"scheduled": false,
+	            		"started": true,
+	            		"ongoing": true,
+	            		"paused": false,
+	            		"completed": false
+	            	}
+	            ],
+	            "background_info": "Storyteller and multi musician",
+	            "implementations": "We are talking about it tomorrow day time, but it was a provisional yes",
+	            "git_repo": "M",
+	            "data_source": "www.usifujalloh.com",
+	            "assets": []
+	        }
+		]
+	}
