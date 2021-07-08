@@ -372,6 +372,17 @@
    },
    "guests": ["Sola Story","Sheda of Holda Poetry","Cezanne Poetess","Kabbo Hue Ferdinand","Queen Yamoh","Kingston Equalite"],
    "notes": "In Honour of Africa Liberation Day"
+ },
+ {
+   "month": "June",
+   "special_status": true,
+   "event_date": "25/06/2021",
+   "lead_performer": "Baba-C",
+   "feature_story": {
+      "theme": "The Evolutionary Gate of Love"
+   },
+   "guests": ["Sola Story","Sheda of Holda Poetry","Cezanne Poetess","Kabbo Hue Ferdinand","Queen Yamoh","Kingston Equalite"],
+   "notes": "In Honour of Africa Liberation Day"
  }
 ]
 
