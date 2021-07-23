@@ -383,6 +383,17 @@
    },
    "guests": ["Sola Story","Sheda of Holda Poetry","Cezanne Poetess","Kabbo Hue Ferdinand","Queen Yamoh","Kingston Equalite"],
    "notes": "In Honour of Africa Liberation Day"
+ },
+ {
+   "month": "July",
+   "special_status": true,
+   "event_date": "31/07/2021",
+   "lead_performer": "Usifu Jalloh",
+   "feature_story": {
+      "theme": "The Youth ARE the Future"
+   },
+   "guests": ["Sola Story","Baba-C","Princess Ziah","Sista J Africa","Queen Yamoh","Sista J Africa", "Poetic Princess", "Nameeka of Acycle"],
+   "notes": "Official Rebirth of the Griot 3rd Anniversary"
  }
 ]
 
