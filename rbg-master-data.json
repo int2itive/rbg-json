@@ -3,8 +3,8 @@
         "first_name": "Sola ",
         "last_name": "Story",
         "image_ref": "../../../etc/assets/ia-content/alim_94A5672.jpg",
-        "Email": "sola@rebirthofthegriot.com",
-        "Mobile": "+1 (876) 381-0911",
+        "Email": "solastory@solastory.co.uk",
+        "Mobile": "+44 7985 229269",
         "brief_intro": "The Brainchild and founder of Rebirth of the Griot. Internationally reknowned African Storyteller.",
         "Comments": "We are talking about it tomorrow day time, but it was a provisional yes",
         "Gender": "M",
@@ -156,7 +156,7 @@
         ]
     },
     {
-        "first_name": "Sandra",
+        "first_name": "Sandra A.",
         "last_name": "Agard",
         "Email": "saagard1611@gmail.com",
         "Mobile": "07539 024320",
@@ -360,9 +360,8 @@
     {
         "first_name": "Haylee",
         "last_name": "Venus",
-        "Email": "PrincessLatifahOfficial@outlook.com",
-        "Mobile": "07539 002999",
-        "Mobile": "07535 923074",
+        "Email": "hayleevenus@gmail.com",
+        "Mobile": "07432 391060",
         "Comments": "Two-time performer. Last appearance was at Anniversary event. Consult over next appearance.",
         "Gender": "F",
         "Website": "www.usifujalloh.com",
@@ -431,6 +430,30 @@
         ]
     },
     {
+        "First Name": "Anna ",
+        "Last Name": "Huggins",
+        "Mobile": "07508 545188",
+        " Brief Intro": "Inaugural 'Rebirth' appearance.",
+        "Comments": "Appears under the stage name of Introverted Decisions",
+        "Gender": "F",
+        "Website": "www.usifujalloh.com",
+        "current_year": null,
+        "previous_year": [
+            {
+                "year": "2020",
+                "appearances": ["January"]
+            },
+            {
+                "year": "2019",
+                "appearances": ["September"]
+            },
+            {
+                "year": "2018",
+                "appearances": null
+            }
+        ]
+    },
+    {
         "First Name": "Crimey ",
         "Last Name": "Queen",
         "Mobile": "07466 431589",
@@ -484,7 +507,7 @@
         "first_name": "Sheda ",
         "last_name": "of Holder Poetry",
         "image_ref": "../../../../etc/rbg/rebirth-of-the-griot/rbg-content/img/i-GLZWNrK-4K.jpg",
-        "Email": "stellabellgam@gmail.com",
+        "Email": "holdapoetry@gmail.com",
         "Mobile": "+44 7928 934722",
         "brief_intro": "Storyteller and multi musician",
         "Comments": "We are talking about it tomorrow day time, but it was a provisional yes",
@@ -685,6 +708,32 @@
             {
                 "year": "2018",
                 "appearances": ["August"]
+            }
+        ]
+    },
+    {
+        "first_name": "Shevelle ",
+        "last_name": "Serita",
+        "image_ref": "../../../etc/assets/ia-content/alim_94A5672.jpg",
+        "Email": "usifujalloh@gmail.com",
+        "Mobile": "+44 7465 212088",
+        "brief_intro": "Storyteller and multi musician",
+        "Comments": "We are talking about it tomorrow day time, but it was a provisional yes",
+        "Gender": "M",
+        "Website": "www.usifujalloh.com",
+        "current_year": null,
+        "previous_year": [
+            {
+                "year": "2020",
+                "appearances": null
+            },
+            {
+                "year": "2019",
+                "appearances": null
+            },
+            {
+                "year": "2018",
+                "appearances": ["November","October","September","August"]
             }
         ]
     },
