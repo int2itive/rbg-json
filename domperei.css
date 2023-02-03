@@ -1,0 +1,156 @@
+/* Contact Page - Form Design Rules */
+
+#block-yui_3_17_2_1_1673616429368_34316 {
+      border: 1px solid rgba(192,192,192, 0.1);
+      border-radius: 8px;
+      padding: 0 12px;
+}
+
+#block-yui_3_17_2_1_1673616429368_34316 .last-name {
+      display: none;
+}
+
+#block-yui_3_17_2_1_1673616429368_34316 .first-name {
+      width: calc(100% - 2px);
+}
+
+
+#block-yui_3_17_2_1_1673616429368_34316 .first-name .caption-text {
+      display: none;
+}
+
+#block-yui_3_17_2_1_1673616429368_34316 #text-yui_3_17_2_1_1674476269572_1754 {
+      display: none;
+}
+
+#block-yui_3_17_2_1_1673616429368_34316 .form-button-wrapper {
+      text-align: center;
+}
+
+#block-yui_3_17_2_1_1673616429368_34316 .form-button-wrapper input.button {
+      width: 40%;
+      border: 1px solid #fff;
+}
+
+
+/* email input */
+
+#email-yui_3_17_2_1_1674476269572_1753   // inout outer div container
+
+#email-yui_3_17_2_1_1674476269572_1753-field  // the input itself
+
+css:
+.form-wrapper .field-list .field .field-element {
+      width: 100%;
+      padding: 12px;
+      margin: 6px 0 4px;
+      border: 1px solid #ccc;
+      background: #fafafa;
+      color: #000;
+      font-family: sans-serif;
+      font-size: 12px;
+      line-height: normal;
+      box-sizing: border-box;
+      border-radius: 2px;
+}
+  @media screen and (min-width: 768px), screen and (max-width: calc(1979px)) and (orientation: landscape)
+.sqs-block-form .field-list ::placeholder {
+  font-size: calc((1 - 1) * 1.2vw + 1rem) !important;
+}
+
+/* Enquiry Text Area */
+
+#textarea-yui_3_17_2_1_1674476269572_1755   // Text Area outer div container
+
+#textarea-yui_3_17_2_1_1674476269572_1755-field   // Text Area id
+
+css:
+.form-wrapper .field-list .field .field-element {
+      width: 100%;
+      padding: 12px;
+      margin: 6px 0 4px;
+      border: 1px solid #ccc;
+      background: #fafafa;
+      color: #000;
+      font-family: sans-serif;
+      font-size: 12px;
+      line-height: normal;
+      box-sizing: border-box;
+      border-radius: 2px;
+}
+
+
+/* Form Button CSS here */
+
+
+element {
+      transition-timing-function: ease;
+      transition-duration: 1.5s;
+      transition-delay: 0.415385s;
+}
+#block-yui_3_17_2_1_1673616429368_34316 .form-button-wrapper {
+      text-align: center;
+}
+.fadeIn:not([data-override-initial-global-animation]) {
+      opacity: 1 !important;
+}
+.preFade {
+      opacity: 0;
+      transition-property: opacity;
+}
+button::-moz-focus-inner, input::-moz-focus-inner {
+      border: 0;
+      padding: 0;
+}
+#block-yui_3_17_2_1_1673616429368_34316 .form-button-wrapper input.button {
+      width: 40%;
+      border: 1px solid #fff;
+}
+#siteWrapper.site-wrapper .sqs-button-element--primary {
+      padding: .8em 1em;
+}
+#siteWrapper .sqs-button-element--primary {
+      font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
+      line-height: 1em;
+      letter-spacing: .05em;
+      font-family: adobe-garamond-pro;
+      font-weight: 500;
+      font-style: normal;
+      text-transform: none;
+      line-height: undefined;
+      letter-spacing: .02em;
+      font-size: 1rem;
+}
+.primary-button-style-outline .sqs-button-element--primary:not(:hover), .primary-button-style-outline .list-item .sqs-block-button-element.list-item-content__button.sqs-button-element--primary:not(:hover), .primary-button-style-outline .list-item[data-is-card-enabled="true"] .sqs-block-button-element.list-item-content__button.sqs-button-element--primary:not(:hover), .primary-button-style-outline .sqs-block-form .sqs-editable-button.sqs-button-element--primary:not(:hover), .primary-button-style-outline .header-menu-cta .btn.sqs-button-element--primary:not(:hover), .primary-button-style-outline .tock-block div#Tock_widget_container > div.TockWidgetWrapper .TockButton-blue.sqs-button-element--primary:not(:hover), .primary-button-style-outline .sqs-modal-lightbox-content .sqs-button-element--primary:not(:hover) {
+      background: transparent;
+}
+.primary-button-style-outline .sqs-button-element--primary, .primary-button-style-outline .list-item .sqs-block-button-element.list-item-content__button.sqs-button-element--primary, .primary-button-style-outline .list-item[data-is-card-enabled="true"] .sqs-block-button-element.list-item-content__button.sqs-button-element--primary, .primary-button-style-outline .sqs-block-form .sqs-editable-button.sqs-button-element--primary, .primary-button-style-outline .header-menu-cta .btn.sqs-button-element--primary, .primary-button-style-outline .tock-block div#Tock_widget_container > div.TockWidgetWrapper .TockButton-blue.sqs-button-element--primary, .primary-button-style-outline .sqs-modal-lightbox-content .sqs-button-element--primary {
+      -webkit-transition: 0.1s background-color linear, 0.1s color linear;
+      -moz-transition: 0.1s background-color linear, 0.1s color linear;
+      -o-transition: 0.1s background-color linear, 0.1s color linear;
+      transition: 0.1s background-color linear, 0.1s color linear;
+}
+body:not(.button-style-default) .sqs-editable-button, body.button-style-default .sqs-editable-button, body:not(.button-style-default) .sqs-editable-button-layout, body.button-style-default .sqs-editable-button-layout, body:not(.button-style-default) .sqs-editable-button-font, body.button-style-default .sqs-editable-button-font, body:not(.button-style-default) .sqs-editable-button-color, body.button-style-default .sqs-editable-button-color, body:not(.button-style-default) .sqs-editable-button-style, body.button-style-default .sqs-editable-button-style, body:not(.button-style-default) .sqs-editable-button-shape, body.button-style-default .sqs-editable-button-shape, body:not(.button-style-default) .sqs-add-to-cart-button, body.button-style-default .sqs-add-to-cart-button {
+      display: inline-block;
+      width: auto;
+      height: auto;
+      border-width: 0;
+      text-align: center;
+      cursor: pointer;
+      -webkit-appearance: none;
+      -moz-appearance: none;
+      appearance: none;
+      font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
+      line-height: 1em;
+      letter-spacing: .05em;
+      font-family: adobe-garamond-pro;
+      font-weight: 500;
+      font-style: normal;
+      text-transform: none;
+      line-height: 1.2em;
+      letter-spacing: .02em;
+      -webkit-font-smoothing: antialiased;
+      font-size: 1rem;
+      line-height: normal;
+      padding: .8em 1.336em;
+}
