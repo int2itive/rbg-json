@@ -1,20 +1,4 @@
-const perfdata = [
-
- // Possible revised structure of the JSON RBG data below:
- // {
- //   "month": "March",
- //   "date": "25/03/2022",
- //   "special_status": true,
- //   "event": {
- //       "headline": "Griot Chinyere",
- //       "theme": {
- //            "title": "Wombman Rising",
- //            "feature_story": ""
- //       },
- //       "guests": ["Sheba Montserrat", "Princess Ziah", "Rare Diamond", "Lady Esi", "Yvonne Robinson"]
- //   },
- //   "notes": "No comments as of yet."
- // }
+[
     {
     "month": "July",
     "date": "19/07/2018",
@@ -841,4 +825,4 @@ const perfdata = [
         },
         "notes": "This event had been postponsed from it's intended July date."
     }    
-];
+]
